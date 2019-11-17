@@ -1,0 +1,19 @@
+{
+    "name": "EasyVuePress",
+    "version": "1.0.0",
+    "main": "index.js",
+    "directories": {
+        "doc": "docs"
+    },
+    "scripts": {
+        "dev": "vuepress dev docs",
+        "build": "vuepress build docs",
+        "deploy": "sh deploy.sh"
+    },
+    "dependencies": {},
+    "devDependencies": {},
+    "keywords": [],
+    "author": "Adam",
+    "license": "ISC",
+    "description": ""
+}
