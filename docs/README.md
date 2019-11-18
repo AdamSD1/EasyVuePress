@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage:  /img/pingtou.jpg
+heroImage:  /pingtou.jpg
 heroText: 首页
 tagline: 遇见最好的自己
 actionText: Start →
